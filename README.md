@@ -11,4 +11,6 @@
 ##To upgrade/downgrade
 ``` kubeadm upgrade plan [version] [flags]```
 
+[Read more](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/)
+
 
